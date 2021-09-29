@@ -2,7 +2,7 @@
 
 :sunglasses: As Data Scientist, I'm curretly working with:
    - Python
-   - Machine Learning packages/frameworks (sklearn, tensorflow, pmdarima)
+   - Machine Learning packages/frameworks (sklearn, tensorflow, modelstats)
    - Optimization packages: (PuLP, Pyomo)
    - SQL
 
